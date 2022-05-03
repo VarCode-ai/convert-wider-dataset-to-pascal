@@ -17,8 +17,9 @@ optional arguments:
                         copied. ie:"Annotations"
   -ip IMAGES_PATH, --images-path IMAGES_PATH
                         the images directory path. ie:"./JPEGImages"
-  -t TYPE, --type TYPE
-                        the ImageSets name. ie:"train(default)/val/test"
+  
+  -t TYPE, --type TYPE  the ImageSets name. ie:"train(default)/val/test"
+
 ```
 It has been used as following:
 
